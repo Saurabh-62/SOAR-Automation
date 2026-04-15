@@ -1,4 +1,4 @@
-# SOAR Automation (Sep 2025 – Nov 2025)
+# SOC Automation (Sep 2025 – Nov 2025)
 
 ## Objective
 The goal of the SOAR Automation project was to create a SOC environment and optimize incident response by automatically detecting threats. The primary focus was to ingest and analyze logs within Wazuh, generating test telemetry to mimic real world attack scenarios. This experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
